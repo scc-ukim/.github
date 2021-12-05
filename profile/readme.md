@@ -1,1 +1,1 @@
-#  SSC Christian University of Indonesia, Moluccas
+#  SCC Christian University of Indonesia, Moluccas
