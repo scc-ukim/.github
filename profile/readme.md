@@ -1,4 +1,6 @@
-![Student Coding Club](https://github.com/scc-ukim/.github/blob/main/profile/src/banner.png?raw=true)
+![Student Coding Club](https://github.com/scc-ukim/.github/blob/main/profile/src/2nd-banner.png?raw=true)
 #  SCC Christian University of Indonesia, Moluccas
 
-SCC CUI-M Is an internal campus organization that aim to help the student of Christian University of Indonesia, Moluccas to expand their knowledge especially in the field of software development, we also help bring innovation and creativity.
+**SCC CUI-M** Is an internal campus organization that aims to help the student of [Christian University of Indonesia, Moluccas](https://ukim.ac.id) to expand their knowledge, especially in the field of software development, data science and UI/UX development, we also want to help bring innovation and creativity.
+
+We are also committed to assisting the development and helping to introduce the **[#A11y movement](https://www.a11yproject.com/)** to a wider audience in Moluccas.
