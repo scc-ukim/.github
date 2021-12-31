@@ -7,10 +7,9 @@ We are also committed to assisting the development and helping to introduce the 
 
 
 ## More
-<details>
-  <summary><strong>Affiliation</strong></summary>
-
   ### Affiliation
+<details>
+  <summary><strong>Read more</strong></summary>
 
   As mentioned above, SCC (Student Coding Club) is an internal campus organization based on [Christian University of Indonesia, Moluccas](https://ukim.ac.id), so we are affiliated with [Christian University of Indonesia, Moluccas](https://ukim.ac.id), and its [University Student Body (SEMA)](https://www.instagram.com/smu_ukim/).
 
@@ -18,22 +17,26 @@ We are also committed to assisting the development and helping to introduce the 
 
 </details>
 
+### Team
+
 <details>
-  <summary><strong>Team</strong></summary>
-
-  ### Team
-
-  Right now we are focused on **Web Development** and **Data Science**, so with that in mind, we have 2 teams that are focused on each subject. 
+  <summary><strong>Read more</strong></summary>
+  
+  Right now we are focused on **`Web Development`** and **`Data Science`**, so with that in mind, we have 2 teams that are focused on each subject. 
 
 </details>
 
-<details>
-  <summary><strong>Rules</strong></summary>
+### Rules
 
 <details>
-  <summary><strong>Repositories-related rules</strong></summary>
+  <summary><strong>Read more</strong></summary>
 
   As an organization we also have our own rules, that each member need to abide to, any violation will be `dealt internally`, but if the violation kept happends we will _not hasitate to pursue any legal action_.
+
+#### Repositories-related Rules
+<details>
+  <summary><strong>Read more</strong></summary>
+
 
   With that being said we are implementing these rules for repositories:
 
