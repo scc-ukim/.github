@@ -23,24 +23,28 @@ We are also committed to assisting the development and helping to introduce the 
 
   ### Team
 
-  Right now we are focused on Web Development and Data Science, so with that in mind, we have 2 teams that are focused on each subject. 
+  Right now we are focused on **Web Development** and **Data Science**, so with that in mind, we have 2 teams that are focused on each subject. 
 
-  
-  <details>
-    <summary><strong>Repositories-related rules</strong></summary>
+</details>
 
-    As an organization we also have our own rules, that each member need to abide to, any violation will be dealt internally, but if the violation kept happends we will not hasitate to pursue any legal action.
+<details>
+  <summary><strong>Rules</strong></summary>
 
-    With that being said we are implementing these rules for repositories:
+<details>
+  <summary><strong>Repositories-related rules</strong></summary>
 
-    - Each team must name their repository follow these rules:
-      - Each repository must start with team code (wd or ds).
-      - Use '-' to seperated team code with the repository name.
-      - Naming convention for repository name is "organization-projectname" ex. "ukim-websitekampus"
-    - Only the team with the proper naming can push any change to relative repository or you need to ask permission from the team leader before you do any changes.
-    - Any project that are secretive in nature are forbid to be public it must kept as private repository.
-    - Its advice to fork the repo, instead of directly pushing any changes to main repo (SCC's Repo). 
+  As an organization we also have our own rules, that each member need to abide to, any violation will be `dealt internally`, but if the violation kept happends we will _not hasitate to pursue any legal action_.
 
-  </details>
+  With that being said we are implementing these rules for repositories:
+
+  - Each team must name their repository follow these rules:
+    - Each repository must start with team code (`wd` or `ds`).
+    - Use `-` to seperated team code with the repository name.
+    - Naming convention for repository name is `organization-projectname` ex. `ukim-websitekampus`
+  - Only the team with the proper naming can push any change to relative repository or you need to ask permission from the team leader before you do any changes.
+  - Any project that are **`secretive`** in nature are forbid to be public it must kept as private repository.
+  - Its `advice to fork the repo`, instead of directly pushing any changes to main repo ([SCC's Repo](https://github.com/scc-ukim)). 
+
+</details>
 
 </details>
