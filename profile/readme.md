@@ -10,4 +10,4 @@ We are also committed to assisting the development and helping to introduce the 
 
 **Read this in** [Indonesian](./readme-id-ID.md) or [Ambonese](./readme-id-ID.md)
 
-More: [Affiliation](./affiliation.md) | [Team](./team.md) | [Rules](./rules.md)
+More: [Affiliation](https://github.com/scc-ukim/.github/blob/main/profile/affiliation.md) | [Team](https://github.com/scc-ukim/.github/blob/main/profile/team.md) | [Rules](https://github.com/scc-ukim/.github/blob/main/profile/rules.md)
