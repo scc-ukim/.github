@@ -4,7 +4,7 @@
 
 **SCC UKIM** tu organisasi kampus deng tujuan par bantu mahasiswa [UKIM](https://ukim.ac.id), par bidang pengembangan aplikasi, olah data, pengembangan UI/UX, deng bantu kase kembang inovasi deng kreatifitas.
 
-Katong jua bertekan par bantu pengembangan deng kase kanal **[Gerakan #A11y](https://www.a11yproject.com/)** ka masyarakat Maluku.
+Katong jua bertekan par bantu pengembangan deng kase kanal **[Gerakan #A11y](https://www.a11yproject.com/)** ka masyarakat [Maluku](https://id.wikipedia.org/wiki/Maluku).
 
 ----
 

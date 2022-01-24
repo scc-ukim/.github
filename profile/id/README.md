@@ -4,7 +4,7 @@
 
 **SCC UKIM** merupakan organisasi internal kampus dengan tujuan untuk membantu mahasiswa [UKIM](https://ukim.ac.id) mengembangkan pengetahuan mereka, terkhususnya pada bidang pengembangan aplikasi, pengelolah data, pengembangan UI/UX, dan membantu perkembangan inovasi dan kreatifitas.
 
-Kami juga bertekan untuk membantu dalam pengembangan dan memperkenalkan **[Gerakan #A11y](https://www.a11yproject.com/)** ke masyarakat Maluku secara luas.
+Kami juga bertekan untuk membantu dalam pengembangan dan memperkenalkan **[Gerakan #A11y](https://www.a11yproject.com/)** ke masyarakat [Maluku](https://id.wikipedia.org/wiki/Maluku) secara luas.
 
 ----
 
