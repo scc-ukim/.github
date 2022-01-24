@@ -8,6 +8,6 @@ We are also committed to assisting the development and helping to introduce the 
 
 ----
 
-**Read this in** [Indonesian](https://github.com/scc-ukim/.github/blob/main/profile/readme-id-ID.md) or [Ambonese](https://github.com/scc-ukim/.github/blob/main/profile/readme-abs-ID.md)
+### **Read this in** [Indonesian](https://github.com/scc-ukim/.github/blob/main/profile/id/README.md) or [Ambonese](https://github.com/scc-ukim/.github/blob/main/profile/id/abs/README.md)
 
-More: [Affiliation](https://github.com/scc-ukim/.github/blob/main/profile/affiliation.md) | [Team](https://github.com/scc-ukim/.github/blob/main/profile/team.md) | [Rules](https://github.com/scc-ukim/.github/blob/main/profile/rules.md)
+#### More: [Affiliation](https://github.com/scc-ukim/.github/blob/main/profile/AFFILIATION.md) | [Team](https://github.com/scc-ukim/.github/blob/main/profile/TEAM.md) | [Rules](https://github.com/scc-ukim/.github/blob/main/profile/RULES.md) | [Code of Conduct](https://github.com/scc-ukim/.github/blob/main/profile/CODE_OF_CONDUCT.md)
