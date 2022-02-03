@@ -10,5 +10,5 @@ Kami juga bertekan untuk membantu dalam pengembangan dan memperkenalkan **[Gerak
 
 ### **Baca Menggunakan** [Bahasa Ambon](https://github.com/scc-ukim/.github/blob/main/profile/id/abs/README.md) atau [Bahasa Inggris](https://github.com/scc-ukim/.github/blob/main/profile/README.md)
 
-#### More: [Affiliation](https://github.com/scc-ukim/.github/blob/main/profile/AFFILIATION.md) | [Team](https://github.com/scc-ukim/.github/blob/main/profile/TEAM.md) | [Rules](https://github.com/scc-ukim/.github/blob/main/profile/RULES.md) | [Code of Conduct](https://github.com/scc-ukim/.github/blob/main/profile/id/CODE_OF_CONDUCT.md)
+#### More: [Affiliation](https://github.com/scc-ukim/.github/blob/main/profile/AFFILIATION.md) | [Team](https://github.com/scc-ukim/.github/blob/main/profile/TEAM.md) | [Aturan](https://github.com/scc-ukim/.github/blob/main/profile/id/RULES.md) | [Kode Etik](https://github.com/scc-ukim/.github/blob/main/profile/id/CODE_OF_CONDUCT.md)
 
