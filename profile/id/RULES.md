@@ -7,7 +7,7 @@ Sebagai sebuah organisasi tentu saja kami memiliki aturan tersendiri, dimana set
 Dengan itu kami juga mempunyai beberapa aturan terkait dengan repositories:
 
 - Setiap tim harus menamakan repositori mereka mengikuti aturan:
-  - Setiap repositoru harus dimulai dengan kode tim (`wd` atau `ds`).
+  - Setiap repositori harus dimulai dengan kode tim (`wd` atau `ds`).
   - Gunakan `-` untuk memisahkan kode tim dengan nama repositori.
   - Penamaan repositori harus mengikuti `organisasi-namaproyek` contoh. `ukim-websitekampus`
 - Hanya tim dengan penamaan yang benar bisa melakukan `push` atau perubahan ke repositori yang terkait, atau kalian perlu izin dari ketua tim sebelum melakukan perubahan.
